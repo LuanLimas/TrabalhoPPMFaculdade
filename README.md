@@ -18,3 +18,5 @@ npm install
 quasar dev
 ```
 
+alterar a rota para: http://localhost:8081/#/user
+
